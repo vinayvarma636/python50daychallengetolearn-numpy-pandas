@@ -1,1 +1,1 @@
-print("file exception and eriting and reading operations")
+print(" reading operations")
