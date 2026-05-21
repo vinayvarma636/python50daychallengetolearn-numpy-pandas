@@ -4,7 +4,7 @@ student_details={
     "regno":49,
     "skill":"python"
 }
-file_path="C:/Users/Sai Avinash/OneDrive/Desktop/file.json"
+file_path="C:/Users/Sai Avinash/OneDrive/Desktop/python/file.json"
 try:
     with open(file_path,"w") as file:
         json.dump(student_details,file,indent=4)
